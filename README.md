@@ -2,9 +2,10 @@
 
 <div style="text-align: justify">Currently studying Computer Engineering :computer:, focusing on Information Systems :department_store:. Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism.</div>
 <br>
-<div style="text-align justify">A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, </div>
+<div style="text-align justify">A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I started tutoring young children. </div>
 <br>
 My passions:
+
 - Technology and software :file_folder:
 - Education :school_satchel:
 - Nature :leaves:
