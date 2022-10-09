@@ -1,8 +1,10 @@
-#Hi there, I'm Kiana Bayani :wawe:
+# Hi there, I'm Kiana Bayani :wawe:
 
-I am currently studying Computer Engineering, focusing on Information Systems. 
+Currently studying Computer Engineering, focusing on Information Systems. Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism.
 
 A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more 
+
+
 
 My passions:
 - Technology and software
