@@ -1,8 +1,8 @@
-# Hi there, I'm Kiana Bayani :wawe:
+# Hi there, I'm Kiana Bayani
 
-Currently studying Computer Engineering, focusing on Information Systems. Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism.
+<div style="text-align: justify">Currently studying Computer Engineering, focusing on Information Systems. Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism.</div>
 
-A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more 
+<div style="text-align justify">A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more </div>
 
 
 
